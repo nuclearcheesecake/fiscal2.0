@@ -169,15 +169,15 @@ else
 ## Home page
 
 <p align="center">
-  <img width="650" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/8.png">
+  <img width="500" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/8.png">
 </p>
 
 <p align="center">
-  <img width="650" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/9.png">
+  <img width="500" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/9.png">
 </p>
 
 <p align="center">
-  <img width="650" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/10.png">
+  <img width="500" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/10.png">
 </p>
 
 - Languages
@@ -191,15 +191,15 @@ else
 </p>
 
 <p align="center">
-  <img width="650" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/12.png">
+  <img width="500" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/12.png">
 </p>
 
 <p align="center">
-  <img width="650" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/13.png">
+  <img width="500" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/13.png">
 </p>
 
 <p align="center">
-  <img width="650" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/31.png">
+  <img width="500" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/31.png">
 </p>
 
 <p align="center">
@@ -207,11 +207,11 @@ else
 </p>
 
 <p align="center">
-  <img width="650" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/15.png">
+  <img width="500" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/15.png">
 </p>
 
 <p align="center">
-  <img width="650" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/16.png">
+  <img width="500" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/16.png">
 </p>
 
 <a name="8"></a>
