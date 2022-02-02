@@ -1,4 +1,4 @@
-# FISCAL 2.0 - Actuarial calculator developed using C#
+# FISCAL 2.0 - UX-driven actuarial calculator built using C#
 
 <p align="center">
   <img width="415" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/Screenshot%202022-02-02%20120403.png">
