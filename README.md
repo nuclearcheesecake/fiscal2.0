@@ -66,11 +66,35 @@ User Experience (UX) was a big focus for me, and the design was always kept in m
   <img width="415" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/5.png">
 </p>
 
+<p align="center">
+  <img width="415" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/present1.png">
+</p>
+
+<p align="center">
+  <img width="415" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/present2.png">
+</p>
+
+<p align="center">
+  <img width="415" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/present3.png">
+</p>
+
 <a name="5"></a>
 ## GeeXpo presentation
 
 <p align="center">
   <img width="415" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/7.png">
+</p>
+
+<p align="center">
+  <img width="415" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/present4.png">
+</p>
+
+<p align="center">
+  <img width="415" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/present5.png">
+</p>
+
+<p align="center">
+  <img width="415" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/present6.png">
 </p>
 
 <a name="6"></a>
