@@ -79,6 +79,12 @@ User Experience (UX) was a big focus for me, and the design was always kept in m
 <a name="7"></a>
 ## Home page
 
+- Languages
+- User with password, but can continue without
+- Save information 
+- Tutorial option
+- Printing session
+
 <a name="8"></a>
 ## Converting interest rates
 
