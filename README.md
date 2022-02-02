@@ -42,9 +42,13 @@ This project was a milestone in my early development, and I'm happy to share it 
 <a name="2"></a>
 # FISCAL 1.0 in Excel
 
+I, like my peers, started this project in Excel. Albeit horrendously ugly, as seen below, this simple layout inspired my further designs for FISCAL's homepage. Each button takes you to the specific actuarial function that needed to be performed:
+
 <p align="center">
   <img width="850" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/1.png">
 </p>
+
+Here, for example, is a simple flow, where the user would decide the specific parameters, which eventually redirected them to a screen where they could input data:
 
 <p align="center">
   <img width="600" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/2.png">
@@ -58,6 +62,7 @@ This project was a milestone in my early development, and I'm happy to share it 
   <img width="850" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/4.png">
 </p>
 
+
 <a name="3"></a>
 # Presenting FISCAL 2.0
 
@@ -65,8 +70,12 @@ This project was a milestone in my early development, and I'm happy to share it 
   <img width="415" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/6.jpg">
 </p>
 
+Improving, in my sensibilities at least, on 1.0, FISCAL 2.0 created a more streamlined UX with stronger programming power. Below are the pitches for the product, which I had to give in two different contexts. Let's look at that before we explore FISCAL 2.0, just to see if my presentations would have sold the idea to you at the time. 
+
 <a name="4"></a>
 ## Project PowerPoint
+
+Firstly, I had to present the project to my lecturers. Here are the most important slides in this presentation;
 
 <p align="center">
   <img width="700" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/5.png">
@@ -87,9 +96,15 @@ This project was a milestone in my early development, and I'm happy to share it 
 <a name="5"></a>
 ## GeeXpo presentation
 
+Each year, our campus held GeeXpo, an exhibition of IT talent and possibilities. Students from various surrounding high schools are invited to come take part in competitions, attend seminars and see what the world of studying tech holds for them. I was asked to present FISCAL 2.0 to a group of students. Little did I know I'd be the last to make such a presentation, due to the pandemic hitting the next year, but that is unimportant for this story. 
+
+Here is a poster for the 2019 event:
+
 <p align="center">
   <img width="415" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/7.png">
 </p>
+
+And here are my most important slides. I ended up pitching the importance of data science in our society way more than showcasing my project, but hey, trying to stop a data science student when he is passionate about his work is a cardinal sin. 
 
 <p align="center">
   <img width="700" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/present4.png">
