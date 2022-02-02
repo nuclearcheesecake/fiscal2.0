@@ -121,7 +121,7 @@ And here are my most important slides. I ended up pitching the importance of dat
 <a name="6"></a>
 # Explanation of functionality
 
-Early days, spagetti code eg.
+Now, at last, let's have a look at what this application is capable of. I won't really be explaining or sharing code here, since most of it is like this...
 
 ```C#
 else
@@ -185,6 +185,10 @@ else
   }
 }
 ```
+
+... which is just a simple login request when no password was entered. The experience I obtained in programming, project work and application control still means a lot to me, but the literal value of my code is nothing to write home about. 
+
+There is however one function that I am exceptionally proud of. EXPLAIN NUMERICAL ANALYSIS AND SHARE.
 
 <a name="7"></a>
 ## Home page
