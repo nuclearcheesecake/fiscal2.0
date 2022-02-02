@@ -27,15 +27,17 @@ I think that most programmers look back at their first large project with a mix 
 
 I am no exception to this thought. 
 
-FISCAL was my first real project. At the time, I was just starting my journey down the path made of codeblocks. I had serious doubts as a programmer, daunting task. Endless nights.
+FISCAL was my first real project. At the time, I was just starting my journey down the path made of codeblocks. I had serious doubts as a programmer, since prior to my degree, the world of programming was foreign to me, and suddenly, I had this daunting task of creating a functional application - that can leverage financial mathematics!
 
-Background on module and task
+I remember the endless nights in my dorm room, stretched over two months, pouring over documentation. And then a quick walk to my friend's room to vent my frustration, and then back at the computer, reading and coding. And then...suddenly, success. 
 
-At the same time, I was busy with another module in Graphical User Interfaces, where we created small apps in Visual Studio 2017 using C#. Quickly the idea formed to streamline the user experience using this technology, instead of Excel which, albeit powerful, did not have the interface functionality I desired.
+This application formed a part of my financial mathematics modules, and we were required to build a system that can perform actuarial calculations. Most people completed this task in Excel, but at the same time, I was busy with another module in Graphical User Interfaces, where we created small apps in Visual Studio 2017 using C#. Quickly the idea formed to streamline the user experience using this technology, instead of Excel which, albeit powerful, did not have the interface functionality I desired.
 
 Thus the **Financial Solidarity Calculator**, or FISCAL, was born. 
 
-User Experience (UX) was a big focus for me, and the design was always kept in mind when coding. The decision to move to C# is justified then, looking at the...interesting design capabilities I had in Excel at the time.
+User Experience (UX) was a big focus for me, and the design was always kept in mind when coding. The decision to move to C# is justified then, looking at the...interesting design capabilities I had in Excel at the time. My design in C# is also not very sleek or modern, but I still get the warm fuzzies, knowing a lot of thought went into every button on every page. 
+
+This project was a milestone in my early development, and I'm happy to share it with you today.  
 
 <a name="2"></a>
 # FISCAL 1.0 in Excel
