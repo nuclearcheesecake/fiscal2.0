@@ -68,3 +68,7 @@ User Experience (UX) was a big focus for me, and the design was always kept in m
 
 <a name="13"></a>
 # Conclusion
+
+<p align="center">
+  <img width="415" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/Screenshot%202022-02-02%20130324.png">
+</p>
