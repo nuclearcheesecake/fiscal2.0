@@ -1,2 +1,28 @@
-# fiscal2.0
-Developed in the language of C#, FISCAL 2.0 performs financial calculations on a razor's edge, using a user-friendly system with smooth error handling Fusion of 1980’s aesthetic with modern technology
+# FISCAL 2.0 - Actuarial calculator developed using C#
+
+## Table of Contents
+
+# Background
+
+# FISCAL 1.0 in Excel
+
+# Presenting FISCAL 2.0
+## Project PowerPoint
+
+## GeeXpo presentation
+
+# Explanation of functionality
+## Home page
+
+## Converting interest rates
+
+## Single Investments
+
+## Annuities
+
+## Loans
+
+## Amortization Tables
+
+
+# Conclusion
