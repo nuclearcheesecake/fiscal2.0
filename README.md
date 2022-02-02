@@ -36,14 +36,42 @@ User Experience (UX) was a big focus for me, and the design was always kept in m
 <a name="2"></a>
 # FISCAL 1.0 in Excel
 
+<p align="center">
+  <img width="415" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/1.png">
+</p>
+
+<p align="center">
+  <img width="415" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/2.png">
+</p>
+
+<p align="center">
+  <img width="415" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/3.png">
+</p>
+
+<p align="center">
+  <img width="415" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/4.png">
+</p>
+
 <a name="3"></a>
 # Presenting FISCAL 2.0
+
+<p align="center">
+  <img width="415" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/4.png">
+</p>
 
 <a name="4"></a>
 ## Project PowerPoint
 
+<p align="center">
+  <img width="415" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/5.png">
+</p>
+
 <a name="5"></a>
 ## GeeXpo presentation
+
+<p align="center">
+  <img width="415" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/7.png">
+</p>
 
 <a name="6"></a>
 # Explanation of functionality
