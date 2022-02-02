@@ -23,7 +23,11 @@
 <a name="1"></a>
 # Background
 
-Looking back at my start as a programmer - this was my first real project. Nostalgia. Doubts as a programmer, daunting task. Endless nights.
+I think that most programmers look back at their first large project with a mix of nostalgia for a simpler time and a healthy amount of gratitude that we have grown past the use of spaghetti code. 
+
+I am no exception to this thought. 
+
+FISCAL was my first real project. At the time, I was just starting my journey down the path made of codeblocks. I had serious doubts as a programmer, daunting task. Endless nights.
 
 Background on module and task
 
