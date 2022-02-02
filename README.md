@@ -241,7 +241,7 @@ else
 </p>
 
 <p align="center">
-  <img width="650" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/20.png">
+  <img width="400" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/20.png">
 </p>
 
 <p align="center">
