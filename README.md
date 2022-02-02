@@ -79,66 +79,66 @@ User Experience (UX) was a big focus for me, and the design was always kept in m
 Early days, spagetti code eg.
 
 ```C#
-                else
-                {
-                    if (Global.LANG_GERMAN == false && Global.LANG_AFR == false)
-                    {
-                        if (MessageBox.Show("Continue without entering your username?", "Continue?", MessageBoxButtons.YesNo) == DialogResult.Yes)
-                        {
-                            if (tutorial == false)
-                            {
-                                this.Hide();
-                                Form1 f1 = new Form1();
-                                f1.Show();
-                            }
-                            else if (tutorial == true)
-                            {
-                                Form15 f15 = new Form15();
-                                f15.Show();
-                                this.Hide();
-                            }
-                        }
-                    }
-                    else if (Global.LANG_AFR)
-                    {
-                        if (MessageBox.Show("Gaan voort sonder om gebruikersnaam in te sleutel?", "Gaan voort?", MessageBoxButtons.YesNo) == DialogResult.Yes)
-                        {
-                            if (tutorial == false)
-                            {
+else
+{
+  if (Global.LANG_GERMAN == false && Global.LANG_AFR == false)
+  {
+    if (MessageBox.Show("Continue without entering your username?", "Continue?", MessageBoxButtons.YesNo) == DialogResult.Yes)
+    {
+      if (tutorial == false)
+      {
+        this.Hide();
+        Form1 f1 = new Form1();
+        f1.Show();
+      }
+      else if (tutorial == true)
+      {
+        Form15 f15 = new Form15();
+        f15.Show();
+        this.Hide();
+       }
+     }
+  }
+    else if (Global.LANG_AFR)
+    {
+       if (MessageBox.Show("Gaan voort sonder om gebruikersnaam in te sleutel?", "Gaan voort?", MessageBoxButtons.YesNo) == DialogResult.Yes)
+       {
+          if (tutorial == false)
+           {
 
-                                this.Hide();
-                                Form1 f1 = new Form1();
-                                f1.Show();
-                            }
-                            else
-                            {
-                                Form15 f15 = new Form15();
-                                f15.Show();
-                                this.Hide();
-                            }
-                        }
-                    }
-                    else
-                    {
-                        if (MessageBox.Show("Fahren Sie fort, ohne einen Benutzernamen einzugeben?", "Fortsetzen?", MessageBoxButtons.YesNo) == DialogResult.Yes)
-                        {
-                            if (tutorial == false)
-                            {
-                                this.Hide();
-                                Form1 f1 = new Form1();
-                                f1.Show();
-                            }
-                            else
-                            {
-                                Form15 f15 = new Form15();
-                                f15.Show();
-                                this.Hide();
-                            }
-                        }
-                    }
-                    
+              this.Hide();
+              Form1 f1 = new Form1();
+              f1.Show();
+           }
+           else
+           {
+              Form15 f15 = new Form15();
+              f15.Show();
+              this.Hide();
+           }
+         }
+       }
+       else
+       {
+           if (MessageBox.Show("Fahren Sie fort, ohne einen Benutzernamen einzugeben?", "Fortsetzen?", MessageBoxButtons.YesNo) == DialogResult.Yes)
+           {
+              if (tutorial == false)
+              {
+                   this.Hide();
+                   Form1 f1 = new Form1();
+                   f1.Show();
+               }
+               else
+               {
+                   Form15 f15 = new Form15();
+                   f15.Show();
+                   this.Hide();
                 }
-            }
+          }
+    }
+                    
+  }
+}
 ```
 
 <a name="7"></a>
