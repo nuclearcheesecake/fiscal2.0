@@ -144,26 +144,126 @@ Early days, spagetti code eg.
 <a name="7"></a>
 ## Home page
 
+<p align="center">
+  <img width="415" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/8.png">
+</p>
+
+<p align="center">
+  <img width="415" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/9.png">
+</p>
+
+<p align="center">
+  <img width="415" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/10.png">
+</p>
+
 - Languages
 - User with password, but can continue without
 - Save information 
 - Tutorial option
 - Printing session
 
+<p align="center">
+  <img width="415" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/11.png">
+</p>
+
+<p align="center">
+  <img width="415" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/12.png">
+</p>
+
+<p align="center">
+  <img width="415" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/13.png">
+</p>
+
+<p align="center">
+  <img width="415" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/31.png">
+</p>
+
+<p align="center">
+  <img width="415" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/14.png">
+</p>
+
+<p align="center">
+  <img width="415" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/15.png">
+</p>
+
+<p align="center">
+  <img width="415" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/16.png">
+</p>
+
 <a name="8"></a>
 ## Converting interest rates
+
+<p align="center">
+  <img width="415" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/17.png">
+</p>
+
+<p align="center">
+  <img width="415" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/18.png">
+</p>
+
+<p align="center">
+  <img width="415" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/32.png">
+</p>
+
+<p align="center">
+  <img width="415" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/19.png">
+</p>
 
 <a name="9"></a>
 ## Single Investments
 
+<p align="center">
+  <img width="415" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/22.png">
+</p>
+
+<p align="center">
+  <img width="415" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/20.png">
+</p>
+
+<p align="center">
+  <img width="415" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/21.png">
+</p>
+
 <a name="10"></a>
 ## Annuities
+
+<p align="center">
+  <img width="415" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/23.png">
+</p>
+
+<p align="center">
+  <img width="415" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/24.png">
+</p>
 
 <a name="11"></a>
 ## Loans
 
+<p align="center">
+  <img width="415" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/25.png">
+</p>
+
+<p align="center">
+  <img width="415" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/26.png">
+</p>
+
 <a name="12"></a>
 ## Amortization Tables
+
+<p align="center">
+  <img width="415" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/30.png">
+</p>
+
+<p align="center">
+  <img width="415" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/27.png">
+</p>
+
+<p align="center">
+  <img width="415" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/28.png">
+</p>
+
+<p align="center">
+  <img width="415" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/29.png">
+</p>
 
 <a name="13"></a>
 # Conclusion
