@@ -56,7 +56,7 @@ User Experience (UX) was a big focus for me, and the design was always kept in m
 # Presenting FISCAL 2.0
 
 <p align="center">
-  <img width="415" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/4.png">
+  <img width="415" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/6.png">
 </p>
 
 <a name="4"></a>
