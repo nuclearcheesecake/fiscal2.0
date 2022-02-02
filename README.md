@@ -23,7 +23,7 @@
 <a name="1"></a>
 # Background
 
-Looking back at my start as a programmer - this was my first real project. Nostalgia.
+Looking back at my start as a programmer - this was my first real project. Nostalgia. Doubts as a programmer, daunting task. Endless nights.
 
 Background on module and task
 
@@ -69,6 +69,10 @@ User Experience (UX) was a big focus for me, and the design was always kept in m
 <a name="13"></a>
 # Conclusion
 
+In the end, I scored 95% for this assignment, and was pleased that my first rabbit hole into application programming was recognised.
+
 <p align="center">
-  <img width="415" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/Screenshot%202022-02-02%20130324.png">
+  <img width="500" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/Screenshot%202022-02-02%20130324.png">
 </p>
+
+At the inter-campus competition, FISCAL 2.0 obtained a second place. I am proud of my silver medal - it proved to me that coding only needs guts and an internet connection to master.
