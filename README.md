@@ -23,6 +23,16 @@
 <a name="1"></a>
 # Background
 
+Looking back at my start as a programmer - this was my first real project. Nostalgia.
+
+Background on module and task
+
+At the same time, I was busy with another module in Graphical User Interfaces, where we created small apps in Visual Studio 2017 using C#. Quickly the idea formed to streamline the user experience using this technology, instead of Excel which, albeit powerful, did not have the interface functionality I desired.
+
+Thus the **Financial Solidarity Calculator**, or FISCAL, was born. 
+
+User Experience (UX) was a big focus for me, and the design was always kept in mind when coding. The decision to move to C# is justified then, looking at the...interesting design capabilities I had in Excel at the time.
+
 <a name="2"></a>
 # FISCAL 1.0 in Excel
 
