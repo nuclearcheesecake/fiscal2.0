@@ -1,5 +1,9 @@
 # FISCAL 2.0 - Actuarial calculator developed using C#
 
+<p align="center">
+  <img width="525" src="https://github.com/nuclearcheesecake/fraudlogisticregression/blob/main/misc/stephen-phillips-hostreviews-co-uk-em37kS8WJJQ-unsplash.jpg">
+</p>
+
 ## Table of Contents
 
 * [Background](#1)
