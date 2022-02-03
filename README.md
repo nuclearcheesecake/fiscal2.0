@@ -188,7 +188,41 @@ else
 
 ... which is just a simple login request when no password was entered. The experience I obtained in programming, project work and application control still means a lot to me, but the literal value of my code is nothing to write home about. 
 
-There is however one function that I am exceptionally proud of. EXPLAIN NUMERICAL ANALYSIS AND SHARE.
+There is however one function that I am exceptionally proud of. To find the interest rate of an annuity, neither of my friends nor I could isolate the interest rate variable from the annuity formula. Thus my first dabble into numerical analysis began, where I created two bounds to search between, and numerically evaluate the present value formula for different interest rate values:
+
+```C#
+else if (checkInterestY.Checked && checkInterestP.Checked && checkInterestZ.Checked)
+{
+    presentVal = double.Parse(txtEnterY.Text);
+    payAmount = double.Parse(txtEnterP.Text);
+    term *= period;
+
+    double lowerBound, upperBound, testPV, testInterest = 0;
+    bool found = false;
+
+    lowerBound = presentVal - (presentVal * 0.000001);
+    upperBound = presentVal + (presentVal * 0.000001);
+
+    while (found != true)
+    {
+         testInterest += 0.000001;
+         testPV = (payAmount * (1 + testInterest) * (1 - (Math.Pow((1 + testInterest), -term)))) / testInterest;
+
+         if ((testPV >= lowerBound && testPV <= upperBound) || testInterest > 1)
+         {
+              found = true;
+              interest = testInterest;
+              MessageBox.Show(interest.ToString("p"));
+              break;
+         }
+         if (testInterest >= 1)
+         {
+              MessageBox.Show("No interest could be found for this amount.");
+              break;
+         }
+    }
+}
+```
 
 <a name="7"></a>
 ## Home page
