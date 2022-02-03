@@ -317,6 +317,8 @@ And on the third page, one could calculate whether or not an applicant should be
 <a name="8"></a>
 ## Converting interest rates
 
+In the main menu, the first option leads to this page. This is the first main function of the app - to convert interest rates between different types and compounding periods.
+
 <p align="center">
   <img width="650" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/17.png">
 </p>
@@ -325,9 +327,13 @@ And on the third page, one could calculate whether or not an applicant should be
   <img width="650" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/18.png">
 </p>
 
+If you want to use this newfound rate on a different page, it can be saved:
+
 <p align="center">
   <img width="650" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/32.png">
 </p>
+
+Each page in this app also has a helpful 'Help' button that gives further instructions to new users:
 
 <p align="center">
   <img width="650" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/19.png">
@@ -335,6 +341,8 @@ And on the third page, one could calculate whether or not an applicant should be
 
 <a name="9"></a>
 ## Single Investments
+
+Another function of this app is to be able to compound single investments for a certain period, and all the calculations an actuarial student would usually receive around this subject.
 
 <p align="center">
   <img width="650" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/22.png">
@@ -351,6 +359,8 @@ And on the third page, one could calculate whether or not an applicant should be
 <a name="10"></a>
 ## Annuities
 
+We can also work with different annuities, and all the different aspects of them, such as whether or not they are increasing:
+
 <p align="center">
   <img width="650" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/23.png">
 </p>
@@ -361,6 +371,8 @@ And on the third page, one could calculate whether or not an applicant should be
 
 <a name="11"></a>
 ## Loans
+
+Calculating various values around loans are also made easy:
 
 <p align="center">
   <img width="650" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/25.png">
@@ -373,9 +385,13 @@ And on the third page, one could calculate whether or not an applicant should be
 <a name="12"></a>
 ## Amortization Tables
 
+And finally, the amortization table, which can be neatly displayed given all the input values:
+
 <p align="center">
   <img width="650" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/30.png">
 </p>
+
+Here are the outputs:
 
 <p align="center">
   <img width="350" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/27.png">
@@ -398,4 +414,6 @@ In the end, I scored 95% for this assignment, and was pleased that my first rabb
   <img width="650" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/Screenshot%202022-02-02%20130324.png">
 </p>
 
-At the inter-campus competition, FISCAL 2.0 obtained a second place. I am proud of my silver medal - it proved to me that coding only needs guts and an internet connection to master.
+Two of my fellow students and I were also entered into an inter-campus competition, where several students' actuarial calculators compete. FISCAL 2.0 obtained a second place. I am very proud of my silver medal - it proved to me that coding only needs guts and an internet connection to master.
+
+Thank you for reading, and sharing in this first project of mine, accompanying me as I stroll down memory lane. 
