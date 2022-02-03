@@ -290,19 +290,25 @@ If 'Developer Notes' is accessed, one could find a reference to FISCAL 1.0, in t
   <img width="500" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/15.png">
 </p>
 
-If 'Integrate Answers' is accessed, one has the option to use results obtained in different sections of the applications in other sections that will take those values as inputs:
+If 'Integrate Answers' is accessed, three different pages can be accessed that adds extra functionality to the calculator. These are not the main functions of the app, but just an aside:
 
 <p align="center">
   <img width="500" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/16.png">
 </p>
 
+If the first page is chosen, one has the option to combine different functions of the app as each other's input:
+
 <p align="center">
   <img width="500" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/int2.png">
 </p>
 
+On the second page, one can calculate the amount needed to invest to be able to retire:
+
 <p align="center">
   <img width="500" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/int1.png">
 </p>
+
+And on the third page, one could calculate whether or not an applicant should be accepted for a loan based on credit score and salary:
 
 <p align="center">
   <img width="500" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/int3.png">
