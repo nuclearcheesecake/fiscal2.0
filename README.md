@@ -256,9 +256,13 @@ Now we can discuss some key features of this home page:
 - There is an option to see a quick tutorial before starting
 - The session could be printed, which saves all calculations and variables to a .txt file
 
+Automatically, the language of the application is English:
+
 <p align="center">
   <img width="415" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/11.png">
 </p>
+
+But it is also available in German and Afrikaans:
 
 <p align="center">
   <img width="500" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/12.png">
@@ -268,20 +272,40 @@ Now we can discuss some key features of this home page:
   <img width="500" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/13.png">
 </p>
 
+When logging on, the main menu appears:
+
 <p align="center">
   <img width="500" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/31.png">
 </p>
+
+If we have selected to print the session, the following button is available to print our work:
 
 <p align="center">
   <img width="300" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/14.png">
 </p>
 
+If 'Developer Notes' is accessed, one could find a reference to FISCAL 1.0, in the form of the old mascot:
+
 <p align="center">
   <img width="500" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/15.png">
 </p>
 
+If 'Integrate Answers' is accessed, one has the option to use results obtained in different sections of the applications in other sections that will take those values as inputs:
+
 <p align="center">
   <img width="500" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/16.png">
+</p>
+
+<p align="center">
+  <img width="500" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/int2.png">
+</p>
+
+<p align="center">
+  <img width="500" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/int1.png">
+</p>
+
+<p align="center">
+  <img width="500" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/int3.png">
 </p>
 
 <a name="8"></a>
