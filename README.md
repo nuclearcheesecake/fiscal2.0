@@ -222,28 +222,39 @@ else if (checkInterestY.Checked && checkInterestP.Checked && checkInterestZ.Chec
          }
     }
 }
+
 ```
+
+This was a great stride in my mathematical career, when I realised the potential of mathematical functions. But enough dilly-dallying - let's get to the application!
 
 <a name="7"></a>
 ## Home page
+
+When the application is booted, the user is greeted with the following:
 
 <p align="center">
   <img width="500" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/8.png">
 </p>
 
+Which loads into:
+
 <p align="center">
   <img width="500" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/9.png">
 </p>
+
+And then:
 
 <p align="center">
   <img width="500" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/10.png">
 </p>
 
-- Languages
-- User with password, but can continue without
-- Save information 
-- Tutorial option
-- Printing session
+Now we can discuss some key features of this home page:
+
+- FISCAL 2.0 was availabe in 3 different languages
+- It accepted returning users with their passwords, allowing them to store calculations from previous use
+- However, one could use the app without even entering a username
+- There is an option to see a quick tutorial before starting
+- The session could be printed, which saves all calculations and variables to a .txt file
 
 <p align="center">
   <img width="415" src="https://github.com/nuclearcheesecake/fiscal2.0/blob/main/images/11.png">
